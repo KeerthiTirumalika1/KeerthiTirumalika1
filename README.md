@@ -3,7 +3,7 @@
 I’m a **Business & Data Analyst** passionate about turning data into **actionable insights, clear visual stories, and data-driven solutions**.  
 I work across the analytics lifecycle — from **data collection and cleaning** to **analysis, modeling, and dashboarding** — with a focus on real-world business impact.
 
-I hold a **Master’s in Business Analytics** from The University of Texas at Dallas, and have hands-on experience with analytics tools and languages that help uncover insights and support strategic decisions.:contentReference[oaicite:1]{index=1}
+I hold a **Master’s in Business Analytics** from The University of Texas at Dallas, and have hands-on experience with analytics tools and languages that help uncover insights and support strategic decisions.
 
 ---
 
